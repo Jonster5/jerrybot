@@ -1,0 +1,17 @@
+{
+	"name": "jerribot",
+	"version": "1.0.0",
+	"description": "Jerrybot, serve the jerry",
+	"main": "index.js",
+	"author": "Coin Hunter",
+	"license": "MIT",
+	"type": "module",
+	"private": "false",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"dogehouse.js": "^2.0.1",
+		"dotenv": "^8.2.0"
+	}
+}
